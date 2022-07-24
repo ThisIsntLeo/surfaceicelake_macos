@@ -18,3 +18,5 @@ Models with HWModel "MacBookAir9,1": Catalina (10.15.3)
 Models with HWModel "MacBook16,3": Catalina (10.15.4)
 Models with HWModel "MacBookPro16,4": Catalina (10.15.5)
 Latest macOS Catalina: 10.15.7
+
+PLEASE, PLEASE add SMBIOS data into config.plist, otherwise macOS will not boot but will say "This version of Mac OS X is not supported" and shut down after 30 sec.
