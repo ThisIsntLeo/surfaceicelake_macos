@@ -20,3 +20,7 @@ Models with HWModel "MacBookPro16,4": Catalina (10.15.5)
 Latest macOS Catalina: 10.15.7
 
 PLEASE, PLEASE add SMBIOS data into config.plist, otherwise macOS will not boot but will say "This version of Mac OS X is not supported" and shut down after 30 sec.
+
+Thanks
+to OpenIntelWireless for Wifi
+to Xiashangning for Keyboard, trackpad and touch
