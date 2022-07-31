@@ -1,5 +1,3 @@
-Archived repo
-
 This EFI is for macOS on Surface Devices.
 This **ONLY** works on IceLake. (10th Gen Intel)
 Compatible Devices
