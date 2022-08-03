@@ -24,3 +24,6 @@ PLEASE, PLEASE add SMBIOS data into config.plist, otherwise macOS will not boot 
 Thanks
 to OpenIntelWireless for Wifi
 to Xiashangning for Keyboard, trackpad and touch
+
+Kexts used:
+https://www.playbook.com/s/thisisntleo/8Z8in34KKber4vfCph3CbRHK
